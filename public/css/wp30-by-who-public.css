@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ #wp30-bywho {
+    right: 0;
+    bottom: 0;
+    background-color: #443232;
+    color: #fff;
+    position: fixed;
+    padding: 0.3em;
+    font-weight: 300;
+    z-index: 4;
+    font-family:Arial;
+    font-size:16px;
+}
+
+#wp30-bywho-left {
+    left: 0;
+    bottom: 0;
+    background-color: #443232;
+    color: #fff;
+    position: fixed;
+    padding: 0.3em;
+    font-weight: 300;
+    z-index: 4;
+    font-family:Arial;
+    font-size:16px;
+}
